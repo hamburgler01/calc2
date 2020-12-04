@@ -1,3 +1,4 @@
 initial line
+X w2 line 1
 X w1 line 1
 X w1 line 2
